@@ -1,4 +1,4 @@
-package algorithm.third;
+package algorithm.fifth;
 
 import java.util.ArrayList;
 import java.util.HashMap;
